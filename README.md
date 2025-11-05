@@ -128,7 +128,7 @@ Understanding workforce structure and pay dynamics is crucial for Apex Minds to 
 ![image_alt](https://github.com/Cnik1710/Apex-Minds-Technologies-Employee-Analysis/blob/7e3730ae9a2c7768596671e93bc9ee69df55d5ba/04.%20Apex%20Minds%20Technologies%20Human%20Capital%20%26%20Employee%20Compensation%20Analysis%20(1)%20Dashboard.png)
 
 ### 
-![image_alt]()
+![image_alt](https://github.com/Cnik1710/Apex-Minds-Technologies-Employee-Analysis/blob/cb74ba0a80e412d7fba46a0ff223dc50ba47363f/05.%20Apex%20Minds%20Technologies%20Human%20Capital%20%26%20Employee%20Compensation%20Analysis%20(2)%20Dashboard.png)
 
 ---
 
