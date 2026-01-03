@@ -53,37 +53,37 @@ To analyze **employee distribution and performance metrics across departments, e
 
 ## 💻 Tech Stack    
 ### **Tools:**
-  * **Excel**
+  * **Excel:**
       * Data cleaning & preprocessing
-  * **PowerQuery** 
+  * **PowerQuery:** 
       * ETL transformations
-  * **PowerBI**
+  * **PowerBI:**
       * Visualization, DAX measures & dashboard design
       * DAX – Calculated measures and time intelligence
-   * **PowerPoint**
+   * **PowerPoint:**
       * Presentation and final dashboard snapshots
 ---
 
 ## 📈 Methodology & Analysis  
 ### **Prepare, Process & Analytical Approach:** 
-  * **Data Preparation & Cleaning**
+  * **Data Preparation & Cleaning:**
     * Imported and validated the HR dataset in Power BI.
     * Checked for missing or inconsistent salary, department, and rating entries.
     * Ensured numeric fields (Experience, Salary) were properly typed and formatted.
     * Removed redundant columns and standardized categorical labels (Department Codes, Pay Scales).
-  * **Data Modeling & Integration**
+  * **Data Modeling & Integration:**
     * Defined relationships among core fields (Employee → Department → Career Level).
     * Added calculated columns using DAX SWITCH() for Career Hierarchy Labeling.
     * Created measures for Average, Median, and Total Salary across key dimensions.
     * Integrated slicers and hierarchies (Age, Experience, Rating, Pay Scale).
-  * **Feature Engineering**
+  * **Feature Engineering:**
     * Grouped employees into Age Brackets and Experience Buckets for trend clarity.
     * Derived Total Salary Expense and Average Salary by Rating metrics dynamically.
-  * **Visualization Design**
+  * **Visualization Design:**
     * Dashboard 1 – Headcount & Distribution: Workforce structure, ratings, joining trends.
     * Dashboard 2 – Salary & Performance: Salary trends across experience, age, and career level.
     * Integrated interactive slicers for quick segmentation analysis.
-  * **Validation & Formatting**
+  * **Validation & Formatting:**
     * Cross-verified total employees, salary sums, and averages across visuals.
     * Standardized labels, axis titles, and tooltips.
 ---
