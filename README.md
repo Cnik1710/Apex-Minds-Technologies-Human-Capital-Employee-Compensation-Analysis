@@ -53,14 +53,14 @@ To analyze **employee distribution and performance metrics across departments, e
 
 ## 💻 Tech Stack    
 ### **Tools:**
-  * **Excel:**
+  * **Excel**
       * Data cleaning & preprocessing
-  * **PowerQuery:** 
+  * **PowerQuery** 
       * ETL transformations
-  * **PowerBI:**
+  * **PowerBI**
       * Visualization, DAX measures & dashboard design
       * DAX – Calculated measures and time intelligence
-   * **PowerPoint:**
+   * **PowerPoint**
       * Presentation and final dashboard snapshots
 ---
 
