@@ -65,7 +65,7 @@ To analyze **employee distribution and performance metrics across departments, e
 ---
 
 ## 📈 Methodology & Analysis  
-### **Prepare, Process & Analytical Approach:** 
+### **Preparation, Process & Analytical Approach:** 
   * **Data Preparation & Cleaning:**
     * Imported and validated the HR dataset in Power BI.
     * Checked for missing or inconsistent salary, department, and rating entries.
